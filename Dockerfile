@@ -9,3 +9,9 @@ RUN yum check-update; \
   yum install -y openssh-clients; \
   pip3 install --upgrade pip; \
   pip3 install ansible
+
+#ENTRYPOINT ["ansible-playbook","playbook.yml"]
+
+COPY ./entrypoint.sh /entrypoint.sh
+
+ENTRYPOINT ["bash","/entrypoint.sh"]
