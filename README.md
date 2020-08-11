@@ -1,8 +1,8 @@
 # ansible-in-containers
 
-- blog post [Using Ansible in Containers]().
+- blog post [Using Ansible in Containers]()
+- talk at [PS Power hour]()
 
+---
 
-<h1 style="text-align:center">Buy the Book</h1>
-
-[![become-ansible](img/become-ansible-book.png "become-ansible")](https://gum.co/become-ansible)
+[![become-ansible](img/become-ansible.png "become-ansible")](https://gum.co/become-ansible)
