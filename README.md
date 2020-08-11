@@ -1,7 +1,8 @@
 # ansible-in-containers
-Repository for blog post Using Ansible in Containers, read the full blog post [here]().
+Repository for Using Ansible in Containers
 
+- blog post [Using Ansible in Containers]().
 
-#ADD BOOK HERE
+## Buy the book
 
-https://medium.com/@DahlitzF/run-python-applications-as-non-root-user-in-docker-containers-by-example-cba46a0ff384
+[![become-ansible](img/become-ansible-book.png "become-ansible")](https://gum.co/become-ansible)
