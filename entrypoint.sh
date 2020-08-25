@@ -6,5 +6,6 @@ then
       ansible-playbook $1 -i $2 --vault-password-file .vault;
       rm .vault
 else
+      echo "hello git actions"
       ansible-playbook $1 -i $2
 fi
